@@ -1,0 +1,15 @@
+{
+  "name": "Docs Epistle",
+  "short_name": "Docs Epistle",
+  "description": "A calm corner for clinicians: to-do lists, notes, calendars, drug notes and pearls.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF8F1",
+  "theme_color": "#1F3254",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
